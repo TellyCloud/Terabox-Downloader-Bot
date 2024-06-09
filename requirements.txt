@@ -10,3 +10,4 @@ flask
 gunicorn
 curl-cffi
 aria2p
+urllib3
