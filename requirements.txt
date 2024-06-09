@@ -1,6 +1,13 @@
 requests
+cloudscraper
+bs4 
 python-dotenv
 pyrogram
-python
+tgcrypto
+lxml
+cfscrape
+urllib3
+flask
+gunicorn
+curl-cffi
 aria2p
-pyrofork
